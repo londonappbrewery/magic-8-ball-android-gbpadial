@@ -40,5 +40,5 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:contentDescription="@string/title"
-        android:src="@drawable/ball1" />
+        android:src ="@drawable/ball1" />
 </RelativeLayout>
